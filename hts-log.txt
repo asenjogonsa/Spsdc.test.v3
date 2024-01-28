@@ -1,0 +1,588 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Jan 2024 21:54:06 at https://uksdc.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://uksdc.org/ -O1 "C:\My Web Sites\xd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:54:36	Error: 	"Forbidden" (403) at link https://uksdc.org/xmlrpc.php (from https://uksdc.org/)
+21:54:45	Error: 	"Forbidden" (403) at link https://uksdc.org/xmlrpc.php?rsd (from https://uksdc.org/)
+21:56:38	Error: 	"Not Found" (404) at link https://uksdc.org/about/ (from https://uksdc.org/)
+21:56:38	Warning: 	Moved Permanently for https://uksdc.org/about/team/
+21:56:38	Warning: 	File has moved from https://uksdc.org/about/team/ to https://uksdc.org/competition-overview-2/team/
+21:56:38	Error: 	"Not Found" (404) at link https://uksdc.org/uksdc.org (from https://uksdc.org/)
+21:56:38	Warning: 	Moved Permanently for https://uksdc.org/about/supporters/
+21:56:38	Warning: 	File has moved from https://uksdc.org/about/supporters/ to https://uksdc.org/competition-overview-2/supporters/
+21:56:40	Warning: 	Moved Permanently for https://uksdc.org/?p=2
+21:56:40	Warning: 	File has moved from https://uksdc.org/?p=2 to https://uksdc.org/competition-overview-2/
+21:56:42	Warning: 	Moved Permanently for https://uksdc.org/about/what-to-expect/
+21:56:42	Warning: 	File has moved from https://uksdc.org/about/what-to-expect/ to https://uksdc.org/competition-overview-2/what-to-expect/
+21:56:42	Warning: 	Moved Permanently for https://uksdc.org/about/how-your-company-works/
+21:56:42	Warning: 	File has moved from https://uksdc.org/about/how-your-company-works/ to https://uksdc.org/competition-overview-2/how-your-company-works/
+21:56:42	Warning: 	Moved Permanently for https://uksdc.org/about/rfp-sections/
+21:56:42	Warning: 	File has moved from https://uksdc.org/about/rfp-sections/ to https://uksdc.org/competition-overview-2/rfp-sections/
+21:56:44	Warning: 	Moved Permanently for https://uksdc.org/?p=9791
+21:56:44	Warning: 	File has moved from https://uksdc.org/?p=9791 to https://uksdc.org/competition-overview-2/what-to-expect/
+21:56:44	Warning: 	Link https://uksdc.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+21:56:46	Warning: 	Moved Permanently for https://uksdc.org/?p=12110
+21:56:46	Warning: 	File has moved from https://uksdc.org/?p=12110 to https://uksdc.org/competition-overview-2/what-to-bring/
+21:56:47	Warning: 	Moved Permanently for https://uksdc.org/?p=8073
+21:56:47	Warning: 	File has moved from https://uksdc.org/?p=8073 to https://uksdc.org/competition-overview-2/how-your-company-works/
+21:56:49	Warning: 	Moved Permanently for https://uksdc.org/?p=8089
+21:56:49	Warning: 	File has moved from https://uksdc.org/?p=8089 to https://uksdc.org/competition-overview-2/rfp-sections/
+21:56:50	Warning: 	Moved Permanently for https://uksdc.org/?p=9748
+21:56:50	Warning: 	File has moved from https://uksdc.org/?p=9748 to https://uksdc.org/competition-resources/settlements/faqs/
+21:56:50	Warning: 	Moved Permanently for https://uksdc.org/?p=12
+21:56:50	Warning: 	File has moved from https://uksdc.org/?p=12 to https://uksdc.org/compete/
+21:56:51	Warning: 	Moved Permanently for https://uksdc.org/?p=10839
+21:56:51	Warning: 	File has moved from https://uksdc.org/?p=10839 to https://uksdc.org/compete/registration/
+21:57:00	Warning: 	Moved Permanently for https://uksdc.org/?p=1601
+21:57:00	Warning: 	File has moved from https://uksdc.org/?p=1601 to https://uksdc.org/compete/regional-and-digital-heats/
+21:57:00	Warning: 	Moved Permanently for https://uksdc.org/?p=10734
+21:57:00	Warning: 	File has moved from https://uksdc.org/?p=10734 to https://uksdc.org/compete/national-final/
+21:57:00	Warning: 	Moved Permanently for https://uksdc.org/?p=8029
+21:57:00	Warning: 	File has moved from https://uksdc.org/?p=8029 to https://uksdc.org/competition-resources/
+21:57:04	Warning: 	Moved Permanently for https://uksdc.org/?p=8110
+21:57:04	Warning: 	File has moved from https://uksdc.org/?p=8110 to https://uksdc.org/competition-resources/prime-contractors/
+21:57:06	Warning: 	Moved Permanently for https://uksdc.org/prime-contractors/kepler-automation/
+21:57:06	Warning: 	File has moved from https://uksdc.org/prime-contractors/kepler-automation/ to https://uksdc.org/competition-resources/prime-contractors/kepler-automation/
+21:57:16	Warning: 	Moved Permanently for https://uksdc.org/?p=8292
+21:57:16	Warning: 	File has moved from https://uksdc.org/?p=8292 to https://uksdc.org/competition-resources/subcontractors/
+21:57:57	Warning: 	Moved Permanently for https://uksdc.org/competition-resources/subcontractors/distributed-power-systems//
+21:57:57	Warning: 	Redirected link is identical because of 'URL Hack' option: https://uksdc.org/competition-resources/subcontractors/distributed-power-systems// and https://uksdc.org/competition-resources/subcontractors/distributed-power-systems/
+21:57:57	Warning: 	File has moved from https://uksdc.org/competition-resources/subcontractors/distributed-power-systems// to https://uksdc.org/competition-resources/subcontractors/distributed-power-systems/
+21:58:47	Warning: 	Moved Permanently for https://uksdc.org/?p=8817
+21:58:47	Warning: 	File has moved from https://uksdc.org/?p=8817 to https://uksdc.org/competition-resources/settlements/
+21:59:31	Warning: 	Moved Permanently for https://uksdc.org/?p=8845
+21:59:31	Warning: 	File has moved from https://uksdc.org/?p=8845 to https://uksdc.org/competition-resources/the-foundation-society/
+21:59:31	Warning: 	Moved Permanently for https://uksdc.org/?p=10926
+21:59:31	Warning: 	File has moved from https://uksdc.org/?p=10926 to https://uksdc.org/newsletter/
+21:59:31	Warning: 	Moved Permanently for https://uksdc.org/?p=12190
+21:59:31	Warning: 	File has moved from https://uksdc.org/?p=12190 to https://uksdc.org/sign-up-form/
+22:01:02	Warning: 	Moved Permanently for https://uksdc.org/?p=9739
+22:01:02	Warning: 	File has moved from https://uksdc.org/?p=9739 to https://uksdc.org/competition-overview-2/contact-us/
+22:01:02	Warning: 	Moved Permanently for https://uksdc.org/?p=1597
+22:01:02	Warning: 	File has moved from https://uksdc.org/?p=1597 to https://uksdc.org/volunteer/
+22:01:02	Warning: 	Moved Permanently for https://uksdc.org/?p=11562
+22:01:02	Warning: 	File has moved from https://uksdc.org/?p=11562 to https://uksdc.org/volunteer-handbook/
+22:01:10	Warning: 	Moved Permanently for https://uksdc.org/?p=20
+22:01:10	Warning: 	File has moved from https://uksdc.org/?p=20 to https://uksdc.org/support-us/
+22:01:10	Error: 	"Not Found" (404) at link https://uksdc.org/support-us/j.lyons@uksdc.org (from https://uksdc.org/support-us/)
+22:01:10	Error: 	"Not Found" (404) at link https://uksdc.org/support-us/r.perry@uksdc.org (from https://uksdc.org/support-us/)
+22:01:10	Warning: 	Moved Permanently for https://uksdc.org/?p=1628
+22:01:10	Warning: 	File has moved from https://uksdc.org/?p=1628 to https://uksdc.org/competition-overview-2/supporters/
+22:01:10	Warning: 	Moved Permanently for https://uksdc.org/?p=6057
+22:01:10	Warning: 	File has moved from https://uksdc.org/?p=6057 to https://uksdc.org/uk-space-agency-article-by-jeremy-curtis/
+22:01:11	Warning: 	Moved Permanently for https://uksdc.org/?p=6891
+22:01:11	Warning: 	File has moved from https://uksdc.org/?p=6891 to https://uksdc.org/constructivism-how-we-think-and-learn/
+22:01:11	Warning: 	Moved Permanently for https://uksdc.org/?p=9834
+22:01:11	Warning: 	File has moved from https://uksdc.org/?p=9834 to https://uksdc.org/competition-resources/settlements/a-lasting-legacy/
+22:01:16	Warning: 	Moved Permanently for https://uksdc.org/?p=7366
+22:01:16	Warning: 	File has moved from https://uksdc.org/?p=7366 to https://uksdc.org/compete/digital/
+22:01:16	Error: 	"Not Found" (404) at link https://uksdc.org/compete/digital/compete@uksdc.org (from https://uksdc.org/compete/digital/)
+22:01:17	Warning: 	Moved Permanently for https://uksdc.org/?p=10511
+22:01:17	Warning: 	File has moved from https://uksdc.org/?p=10511 to https://uksdc.org/competition-resources/subcontractors/nasa-mars-competition/
+22:01:17	Warning: 	Moved Permanently for https://uksdc.org/?p=8049
+22:01:17	Warning: 	File has moved from https://uksdc.org/?p=8049 to https://uksdc.org/page-not-currently-available/
+22:01:17	Warning: 	Moved Permanently for https://uksdc.org/?p=13225
+22:01:17	Warning: 	File has moved from https://uksdc.org/?p=13225 to https://uksdc.org/registration-closed/
+22:01:17	Warning: 	Moved Permanently for https://uksdc.org/?p=13340
+22:01:17	Warning: 	File has moved from https://uksdc.org/?p=13340 to https://uksdc.org/competition-resources/ai-usage/
+22:01:17	Warning: 	Moved Permanently for https://uksdc.org/?p=10261
+22:01:17	Warning: 	File has moved from https://uksdc.org/?p=10261 to https://uksdc.org/competition-resources/last-minute-tips/
+22:01:18	Warning: 	Moved Permanently for https://uksdc.org/?p=8131
+22:01:18	Warning: 	File has moved from https://uksdc.org/?p=8131 to https://uksdc.org/competition-resources/prime-contractors/earhart-advanced-industries/
+22:01:19	Warning: 	Moved Permanently for https://uksdc.org/?p=8752
+22:01:19	Warning: 	File has moved from https://uksdc.org/?p=8752 to https://uksdc.org/competition-resources/prime-contractors/davinci-meccanica/
+22:01:20	Warning: 	Moved Permanently for https://uksdc.org/?p=8726
+22:01:20	Warning: 	File has moved from https://uksdc.org/?p=8726 to https://uksdc.org/competition-resources/prime-contractors/olympus-mons-trading-company/
+22:01:20	Warning: 	Moved Permanently for https://uksdc.org/?p=12795
+22:01:20	Warning: 	File has moved from https://uksdc.org/?p=12795 to https://uksdc.org/competition-resources/prime-contractors/condor/
+22:01:20	Warning: 	Moved Permanently for https://uksdc.org/?p=13274
+22:01:20	Warning: 	File has moved from https://uksdc.org/?p=13274 to https://uksdc.org/competition-resources/prime-contractors/sapien/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8327
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8327 to https://uksdc.org/competition-resources/subcontractors/adaptive-allotropy/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8353
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8353 to https://uksdc.org/competition-resources/subcontractors/advanced-materials-group/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8358
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8358 to https://uksdc.org/competition-resources/subcontractors/applied-carbon/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8367
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8367 to https://uksdc.org/competition-resources/subcontractors/crucible-ltd/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8771
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8771 to https://uksdc.org/competition-resources/subcontractors/earhart-skunkworks/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8387
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8387 to https://uksdc.org/competition-resources/subcontractors/orbital-foundry/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8396
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8396 to https://uksdc.org/competition-resources/subcontractors/out-of-the-woods/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8401
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8401 to https://uksdc.org/competition-resources/subcontractors/sealant-advancements/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8409
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8409 to https://uksdc.org/competition-resources/subcontractors/tubular-technologies/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8436
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8436 to https://uksdc.org/competition-resources/subcontractors/3d-logistics/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8443
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8443 to https://uksdc.org/competition-resources/subcontractors/inflatable-innovations/
+22:01:21	Warning: 	Moved Permanently for https://uksdc.org/?p=8451
+22:01:21	Warning: 	File has moved from https://uksdc.org/?p=8451 to https://uksdc.org/competition-resources/subcontractors/digg/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8462
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8462 to https://uksdc.org/competition-resources/subcontractors/dirtbuilders/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8476
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8476 to https://uksdc.org/competition-resources/subcontractors/large-print/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8481
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8481 to https://uksdc.org/competition-resources/subcontractors/lightworks/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8677
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8677 to https://uksdc.org/competition-resources/subcontractors/magnetic-propulsion-union/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8486
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8486 to https://uksdc.org/competition-resources/subcontractors/planetary-pavers/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8494
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8494 to https://uksdc.org/competition-resources/subcontractors/progressive-plumbing/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=10174
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=10174 to https://uksdc.org/competition-resources/subcontractors/starrs/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8499
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8499 to https://uksdc.org/competition-resources/subcontractors/bots4u/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8510
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8510 to https://uksdc.org/competition-resources/subcontractors/electroprotect/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8521
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8521 to https://uksdc.org/competition-resources/subcontractors/fission-frontiers/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8533
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8533 to https://uksdc.org/competition-resources/subcontractors/fusion-founders/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8792
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8792 to https://uksdc.org/competition-resources/subcontractors/stardream/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8544
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8544 to https://uksdc.org/competition-resources/subcontractors/orbitlink-communications/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8549
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8549 to https://uksdc.org/competition-resources/subcontractors/personal-pcbs/
+22:01:22	Warning: 	Moved Permanently for https://uksdc.org/?p=8554
+22:01:22	Warning: 	File has moved from https://uksdc.org/?p=8554 to https://uksdc.org/competition-resources/subcontractors/vigilant-systems/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=10412
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=10412 to https://uksdc.org/competition-resources/subcontractors/space-kettle/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8563
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8563 to https://uksdc.org/competition-resources/subcontractors/nitrogen-hydro/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8568
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8568 to https://uksdc.org/competition-resources/subcontractors/effective-disposal-solutions/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8669
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8669 to https://uksdc.org/competition-resources/subcontractors/extreme-survival-technologies/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8576
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8576 to https://uksdc.org/competition-resources/subcontractors/lossless-airlocks/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8586
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8586 to https://uksdc.org/competition-resources/subcontractors/ventures-by-sapien/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8597
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8597 to https://uksdc.org/competition-resources/subcontractors/crispr-cod/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8592
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8592 to https://uksdc.org/competition-resources/subcontractors/modular-ecology/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8605
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8605 to https://uksdc.org/competition-resources/subcontractors/svalbard-seeds/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8610
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8610 to https://uksdc.org/competition-resources/subcontractors/synthetic-seeds/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8619
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8619 to https://uksdc.org/competition-resources/subcontractors/aldrin-orbitals/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8628
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8628 to https://uksdc.org/competition-resources/subcontractors/custom-cargo-accommodations/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8636
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8636 to https://uksdc.org/competition-resources/subcontractors/consegna-veloce/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8641
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8641 to https://uksdc.org/competition-resources/subcontractors/confirmed-couriers/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8646
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8646 to https://uksdc.org/competition-resources/subcontractors/dangerous-packages/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=10134
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=10134 to https://uksdc.org/competition-resources/subcontractors/earhart-valiant-2/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8654
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8654 to https://uksdc.org/competition-resources/subcontractors/frozen-freightage/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=8659
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=8659 to https://uksdc.org/competition-resources/subcontractors/interorbital-heavy-payload-carriers/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=10152
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=10152 to https://uksdc.org/competition-resources/subcontractors/condor-mfr/
+22:01:23	Warning: 	Moved Permanently for https://uksdc.org/?p=10162
+22:01:23	Warning: 	File has moved from https://uksdc.org/?p=10162 to https://uksdc.org/competition-resources/subcontractors/omtc-nix/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=10175
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=10175 to https://uksdc.org/competition-resources/subcontractors/omtc-transport-services/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=8664
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=8664 to https://uksdc.org/competition-resources/subcontractors/spacetrans-inc/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9157
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9157 to https://uksdc.org/competition-resources/settlements/bots4u-2/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9171
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9171 to https://uksdc.org/competition-resources/settlements/liberty/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9172
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9172 to https://uksdc.org/competition-resources/settlements/independence/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9180
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9180 to https://uksdc.org/competition-resources/settlements/alexandriat/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9234
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9234 to https://uksdc.org/competition-resources/settlements/alaskol-2/
+22:01:24	Warning: 	Moved Permanently for https://uksdc.org/?p=9220
+22:01:24	Warning: 	File has moved from https://uksdc.org/?p=9220 to https://uksdc.org/competition-resources/settlements/bellevistat/
+22:01:25	Warning: 	Moved Permanently for https://uksdc.org/?p=9316
+22:01:25	Warning: 	File has moved from https://uksdc.org/?p=9316 to https://uksdc.org/competition-resources/settlements/balderol/
+22:01:25	Warning: 	Moved Permanently for https://uksdc.org/?p=9251
+22:01:25	Warning: 	File has moved from https://uksdc.org/?p=9251 to https://uksdc.org/competition-resources/settlements/arial/
+22:01:25	Warning: 	Moved Permanently for https://uksdc.org/?p=9542
+22:01:25	Warning: 	File has moved from https://uksdc.org/?p=9542 to https://uksdc.org/competition-resources/settlements/alleras/
+22:01:26	Warning: 	Moved Permanently for https://uksdc.org/?p=9327
+22:01:26	Warning: 	File has moved from https://uksdc.org/?p=9327 to https://uksdc.org/competition-resources/settlements/columbiat/
+22:01:26	Warning: 	Moved Permanently for https://uksdc.org/?p=9341
+22:01:26	Warning: 	File has moved from https://uksdc.org/?p=9341 to https://uksdc.org/competition-resources/settlements/anaximandah/
+22:01:26	Warning: 	Moved Permanently for https://uksdc.org/?p=9352
+22:01:26	Warning: 	File has moved from https://uksdc.org/?p=9352 to https://uksdc.org/competition-resources/settlements/aresam-2/
+22:01:26	Warning: 	Moved Permanently for https://uksdc.org/?p=9363
+22:01:26	Warning: 	File has moved from https://uksdc.org/?p=9363 to https://uksdc.org/competition-resources/settlements/argonom/
+22:01:26	Warning: 	Moved Permanently for https://uksdc.org/?p=9374
+22:01:26	Warning: 	File has moved from https://uksdc.org/?p=9374 to https://uksdc.org/competition-resources/settlements/aperioh/
+22:01:27	Warning: 	Moved Permanently for https://uksdc.org/?p=9385
+22:01:27	Warning: 	File has moved from https://uksdc.org/?p=9385 to https://uksdc.org/competition-resources/settlements/asimov/
+22:01:27	Warning: 	Moved Permanently for https://uksdc.org/?p=9393
+22:01:27	Warning: 	File has moved from https://uksdc.org/?p=9393 to https://uksdc.org/competition-resources/settlements/benevectoras/
+22:01:27	Warning: 	Moved Permanently for https://uksdc.org/?p=10550
+22:01:27	Warning: 	File has moved from https://uksdc.org/?p=10550 to https://uksdc.org/competition-resources/settlements/aesop/
+22:01:27	Warning: 	Moved Permanently for https://uksdc.org/?p=9403
+22:01:27	Warning: 	File has moved from https://uksdc.org/?p=9403 to https://uksdc.org/competition-resources/settlements/bosloh/
+22:01:28	Warning: 	Moved Permanently for https://uksdc.org/?p=9411
+22:01:28	Warning: 	File has moved from https://uksdc.org/?p=9411 to https://uksdc.org/competition-resources/settlements/astoria-2/
+22:01:28	Warning: 	Moved Permanently for https://uksdc.org/?p=9422
+22:01:28	Warning: 	File has moved from https://uksdc.org/?p=9422 to https://uksdc.org/competition-resources/settlements/aviv-2/
+22:01:29	Warning: 	Moved Permanently for https://uksdc.org/?p=9430
+22:01:29	Warning: 	File has moved from https://uksdc.org/?p=9430 to https://uksdc.org/competition-resources/settlements/cecilioh-2/
+22:01:29	Warning: 	Moved Permanently for https://uksdc.org/?p=9438
+22:01:29	Warning: 	File has moved from https://uksdc.org/?p=9438 to https://uksdc.org/competition-resources/settlements/bradburyom-2/
+22:01:29	Warning: 	Moved Permanently for https://uksdc.org/?p=9446
+22:01:29	Warning: 	File has moved from https://uksdc.org/?p=9446 to https://uksdc.org/competition-resources/settlements/cassandras/
+22:01:29	Warning: 	Moved Permanently for https://uksdc.org/?p=11204
+22:01:29	Warning: 	File has moved from https://uksdc.org/?p=11204 to https://uksdc.org/competition-resources/settlements/dias/
+22:02:31	Warning: 	Moved Permanently for https://uksdc.org/?p=12413
+22:02:31	Warning: 	File has moved from https://uksdc.org/?p=12413 to https://uksdc.org/2023/09/ssefs-stellar-journey-to-the-international-space-settlement-design-competition/
+22:02:33	Warning: 	Moved Permanently for https://uksdc.org/?p=11394
+22:02:33	Warning: 	File has moved from https://uksdc.org/?p=11394 to https://uksdc.org/2023/04/team-announcement/
+22:02:34	Warning: 	Moved Permanently for https://uksdc.org/?p=11147
+22:02:34	Warning: 	File has moved from https://uksdc.org/?p=11147 to https://uksdc.org/2023/03/uksdc-final-2023/
+22:03:15	Warning: 	Moved Permanently for https://uksdc.org/?p=10967
+22:03:15	Warning: 	File has moved from https://uksdc.org/?p=10967 to https://uksdc.org/2022/10/uk-space-week-2022/
+22:03:16	Warning: 	Moved Permanently for https://uksdc.org/?p=10581
+22:03:16	Warning: 	File has moved from https://uksdc.org/?p=10581 to https://uksdc.org/2022/04/uk-team-for-the-issdc/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=10573
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=10573 to https://uksdc.org/2022/04/uksdc-finals/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=7683
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=7683 to https://uksdc.org/2021/04/uksdc-finals-and-uk-team-announcement-for-the-issdc/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=7631
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=7631 to https://uksdc.org/2021/02/uk-space-design-competition-digital-finals-2021/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=7622
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=7622 to https://uksdc.org/2021/01/uksdc-video-competition-2020-21-results/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=7577
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=7577 to https://uksdc.org/2020/11/first-online-2020-sdc/
+22:03:19	Warning: 	Moved Permanently for https://uksdc.org/?p=7205
+22:03:19	Warning: 	File has moved from https://uksdc.org/?p=7205 to https://uksdc.org/2020/03/uk-team-for-issdc/
+22:03:52	Warning: 	Moved Permanently for https://uksdc.org/?p=7181
+22:03:52	Warning: 	File has moved from https://uksdc.org/?p=7181 to https://uksdc.org/2020/03/uksdc-national-finals-march-14-15/
+22:04:03	Warning: 	Moved Permanently for https://uksdc.org/?p=7137
+22:04:03	Warning: 	File has moved from https://uksdc.org/?p=7137 to https://uksdc.org/2020/01/march-14-15-2020-uk-national-finals/
+22:04:03	Warning: 	Moved Permanently for https://uksdc.org/?p=6647
+22:04:03	Warning: 	File has moved from https://uksdc.org/?p=6647 to https://uksdc.org/2019/03/team-selected-from-the-winning-competition-to-represent-the-uk-at-the-issdc/
+22:04:03	Warning: 	Moved Permanently for https://uksdc.org/?p=6632
+22:04:03	Warning: 	File has moved from https://uksdc.org/?p=6632 to https://uksdc.org/2019/03/uk-space-design-competition-2019-winning-company/
+22:04:03	Warning: 	Moved Permanently for https://uksdc.org/?p=6596
+22:04:03	Warning: 	File has moved from https://uksdc.org/?p=6596 to https://uksdc.org/2019/03/winning-company-2019-uksdc-finals/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6587
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6587 to https://uksdc.org/2019/03/2019-uksdc-finals-programme-book/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6582
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6582 to https://uksdc.org/2019/01/video-competition-results-2019/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6234
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6234 to https://uksdc.org/2018/06/new-video-of-2018-uksdc-finals-at-imperial-college/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6072
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6072 to https://uksdc.org/how-we-think-and-learn-2/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6051
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6051 to https://uksdc.org/2018/03/why-does-the-space-competition-and-galactic-challenge-work/
+22:04:16	Error: 	"Error when decompressing" (-1) at link https://uksdc.org/constructivism-a…eory-of-learning/ (from https://uksdc.org/2018/03/why-does-the-space-competition-and-galactic-challenge-work/)
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=6027
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=6027 to https://uksdc.org/2018/03/2018-finals-marcus-du-sautoy/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=5718
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=5718 to https://uksdc.org/2018/03/the-eu-team-and-reserves-for-vulture-aviation/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=4381
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=4381 to https://uksdc.org/2017/12/the-regionals-are-over/
+22:04:16	Warning: 	Moved Permanently for https://uksdc.org/?p=4277
+22:04:16	Warning: 	File has moved from https://uksdc.org/?p=4277 to https://uksdc.org/2017/08/central-london-regional-filling-up-fast/
+22:04:22	Warning: 	Moved Permanently for https://uksdc.org/?p=13209
+22:04:22	Warning: 	File has moved from https://uksdc.org/?p=13209 to https://uksdc.org/volunteer-handbook/volunteer-roles/
+22:04:22	Warning: 	Moved Permanently for https://uksdc.org/?p=12013
+22:04:22	Warning: 	File has moved from https://uksdc.org/?p=12013 to https://uksdc.org/volunteer-handbook/volunteer-skills/
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=12040
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=12040 to https://uksdc.org/volunteer-handbook/volunteer-experience/
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=11819
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=11819 to https://uksdc.org/volunteer-handbook/conflict-management/
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=7240
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=7240 to https://uksdc.org/competition-overview-2/team/
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=8194
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=8194 to https://uksdc.org/competition-resources/prime-contractors/kepler-automation/
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=4271
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=4271 to https://uksdc.org/2017/08/fall-regional-registration-opened-this-week/
+22:04:24	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/IMG_1115-e1501553178864-225x300.jpg (from https://uksdc.org/2017/08/issdc-2017-the-partys-over/)
+22:04:24	Warning: 	Moved Permanently for https://uksdc.org/?p=4239
+22:04:24	Warning: 	File has moved from https://uksdc.org/?p=4239 to https://uksdc.org/2017/08/issdc-2017-the-partys-over/
+22:04:31	Warning: 	Moved Permanently for https://uksdc.org/?p=4233
+22:04:31	Warning: 	File has moved from https://uksdc.org/?p=4233 to https://uksdc.org/2017/07/issdc17-the-uk-and-eu-teams-immerse-themselves-in-the-local-culture/
+22:04:33	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/universal-1024x678.jpg (from https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/)
+22:04:33	Warning: 	Moved Permanently for https://uksdc.org/?p=4221
+22:04:33	Warning: 	File has moved from https://uksdc.org/?p=4221 to https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/
+22:04:33	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKTeam1-1024x678.jpg (from https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/)
+22:04:33	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKTeam2.jpg (from https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/)
+22:04:33	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/boyswithflowercrowns.jpg (from https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/)
+22:04:33	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/girlswithhats-1024x678.jpg (from https://uksdc.org/2017/07/issdc17-uk-and-eu-teams-have-an-amazing-first-day-at-universal-studios/)
+22:04:37	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Alison-KN-LL-and-JL-Wapping-July-2017-300x300.jpg (from https://uksdc.org/2017/07/galactic-challenge-at-wapping-school/)
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4182
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4182 to https://uksdc.org/2017/07/galactic-challenge-at-wapping-school/
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4134
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4134 to https://uksdc.org/2017/06/international-space-settlement-design-competition-issdc/
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4103
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4103 to https://uksdc.org/2017/03/eu-team-representatives-2/
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4089
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4089 to https://uksdc.org/2017/03/nasa-team-announcement/
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4087
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4087 to https://uksdc.org/2017/03/watch-this-space/
+22:04:37	Warning: 	Moved Permanently for https://uksdc.org/?p=4078
+22:04:37	Warning: 	File has moved from https://uksdc.org/?p=4078 to https://uksdc.org/2017/03/uk-space-design-challenge-event-schedule/
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3978
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3978 to https://uksdc.org/2017/01/thanks-to-all-those-that-entered-the-video-competition/
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3976
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3976 to https://uksdc.org/2017/01/video-winners-for-the-uksdc-national-finals-march-18-and-19/
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3944
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3944 to https://uksdc.org/2016/12/galactic-challenge/
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3903
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3903 to https://uksdc.org/2016/11/huddersfield-university-sdc-winners-congratulations-to-altrincham-grammar-and-brookshank-school/
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3884
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3884 to https://uksdc.org/2016/11/spider-bots-train-to-build-a-moon-colony-hive-minds-equipped-with-3d-printers/
+22:04:38	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/image1-1-300x169.jpg (from https://uksdc.org/2016/11/congratulations-to-vulture-aviation-headed-to-the-national-uk-finals-in-march/)
+22:04:38	Warning: 	Moved Permanently for https://uksdc.org/?p=3868
+22:04:38	Warning: 	File has moved from https://uksdc.org/?p=3868 to https://uksdc.org/2016/11/congratulations-to-vulture-aviation-headed-to-the-national-uk-finals-in-march/
+22:04:41	Warning: 	Moved Permanently for https://uksdc.org/?p=3858
+22:04:41	Warning: 	File has moved from https://uksdc.org/?p=3858 to https://uksdc.org/2016/11/supermoon/
+22:04:43	Warning: 	Moved Permanently for https://uksdc.org/?p=3851
+22:04:43	Warning: 	File has moved from https://uksdc.org/?p=3851 to https://uksdc.org/2016/11/congratulations-to-bedes-school-winner-of-the-south-england-regional/
+22:04:44	Warning: 	Moved Permanently for https://uksdc.org/?p=3841
+22:04:44	Warning: 	File has moved from https://uksdc.org/?p=3841 to https://uksdc.org/2016/11/congratulations-to-sutton-grammar-winners-of-the-east-london-regional-heat/
+22:04:44	Warning: 	Moved Permanently for https://uksdc.org/?p=3831
+22:04:44	Warning: 	File has moved from https://uksdc.org/?p=3831 to https://uksdc.org/2016/10/congratulations-to-john-taylor-high-school-winners-at-derbyshire/
+22:04:45	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/S-Lon-Nonsuch-300x225.jpg (from https://uksdc.org/2016/10/congratulations-nonsuch-winners-south-london/)
+22:04:45	Warning: 	Moved Permanently for https://uksdc.org/?p=3817
+22:04:45	Warning: 	File has moved from https://uksdc.org/?p=3817 to https://uksdc.org/2016/10/congratulations-nonsuch-winners-south-london/
+22:04:45	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/IMG_0184-225x300.jpg (from https://uksdc.org/2016/10/alison-ahearn-with-students-from-capital-city-academy-at-the-westminster-regional-oct-8/)
+22:04:45	Warning: 	Moved Permanently for https://uksdc.org/?p=3792
+22:04:45	Warning: 	File has moved from https://uksdc.org/?p=3792 to https://uksdc.org/2016/10/alison-ahearn-with-students-from-capital-city-academy-at-the-westminster-regional-oct-8/
+22:04:46	Warning: 	Moved Permanently for https://uksdc.org/?p=3776
+22:04:46	Warning: 	File has moved from https://uksdc.org/?p=3776 to https://uksdc.org/2016/09/great-chance-to-take-up-last-minute-regional-opening-for-smaller-teams/
+22:04:46	Warning: 	Moved Permanently for https://uksdc.org/?p=3761
+22:04:46	Warning: 	File has moved from https://uksdc.org/?p=3761 to https://uksdc.org/2016/09/video-entries/
+22:04:46	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/winners_rockdonnell-300x225.jpg (from https://uksdc.org/2016/08/uk-team-wins/)
+22:04:46	Warning: 	Moved Permanently for https://uksdc.org/?p=3639
+22:04:46	Warning: 	File has moved from https://uksdc.org/?p=3639 to https://uksdc.org/2016/08/uk-team-wins/
+22:04:47	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/IMG_5075.mov (from https://uksdc.org/2016/08/uk-team-wins/)
+22:05:18	Error: 	"Not Found" (404) at link https://aglobalvillage.org/site/assets/files/1441/torus_cutaway_ac75-1086-1_5725.jpg (from https://uksdc.org/author/abraithwaite/page/2/)
+22:05:27	Error: 	"Not Found" (404) at link https://uksdc.org/compete/regionals/ (from https://uksdc.org/author/abraithwaite/page/2/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3540
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3540 to https://uksdc.org/2016/05/congratulations-to-more-of-our-alumni/
+22:05:34	Error: 	"Error when decompressing" (-1) at link https://uksdc.org/2016/04/give-us-some-feedback/%e2%80%9dhttps:/uksdc.org/feedback/alumni-survey-2016-for-students/%e2%80%9d]Students[/button] (from https://uksdc.org/2016/04/give-us-some-feedback/)
+22:05:34	Error: 	"Error when decompressing" (-1) at link https://uksdc.org/2016/04/give-us-some-feedback/%e2%80%9dhttps:/uksdc.org/feedback/teacher-survey-2016/%e2%80%9d]Teachers[/button] (from https://uksdc.org/2016/04/give-us-some-feedback/)
+22:05:34	Error: 	"Error when decompressing" (-1) at link https://uksdc.org/2016/04/give-us-some-feedback/%e2%80%9dhttps:/uksdc.org/feedback/volunteer-survey-2016/%e2%80%9d]Volunteers (from https://uksdc.org/2016/04/give-us-some-feedback/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3530
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3530 to https://uksdc.org/2016/04/give-us-some-feedback/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3482
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3482 to https://uksdc.org/2016/04/planning-for-2016-17/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/compete/micros/ (from https://uksdc.org/2016/04/planning-for-2016-17/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3465
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3465 to https://uksdc.org/2016/03/congratulations/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/support-us/volunteer-registration/ (from https://uksdc.org/2016/03/congratulations/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3441
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3441 to https://uksdc.org/2016/03/foundation-society-issues-press-release/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UK16-Press-Release.pdf (from https://uksdc.org/2016/03/foundation-society-issues-press-release/)
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKSDC-Finals-Booklet.pdf (from https://uksdc.org/2016/03/foundation-society-issues-press-release/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3433
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3433 to https://uksdc.org/2016/03/rooming-arrangements/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3431
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3431 to https://uksdc.org/2016/03/greetings-and-salutations/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3429
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3429 to https://uksdc.org/2016/03/uk-finals-company-allocations/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3426
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3426 to https://uksdc.org/2016/02/uk-finals-2016-what-to-expect/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3423
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3423 to https://uksdc.org/2016/02/general-uk-finals-information/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/about/information-for-parents-and-carers/ (from https://uksdc.org/2016/02/general-uk-finals-information/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3378
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3378 to https://uksdc.org/2016/01/video-competition-2015-16-results/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3361
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3361 to https://uksdc.org/2016/01/video-competition-2015-16-update/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3338
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3338 to https://uksdc.org/2015/12/central-england-regional-heat/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3332
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3332 to https://uksdc.org/2015/12/wales-regional-heat/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/compete/video-entries/
+22:05:34	Warning: 	File has moved from https://uksdc.org/compete/video-entries/ to https://uksdc.org/2016/09/video-entries/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3321
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3321 to https://uksdc.org/2015/11/derbyshire-regional-heat-2015/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3316
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3316 to https://uksdc.org/2015/11/south-london-regional-heat-2015/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKSDC-Yorkshire-Winners-Flechtel-Constructors-300x130.jpg (from https://uksdc.org/2015/11/yorkshire-regional-heat-2015/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3310
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3310 to https://uksdc.org/2015/11/yorkshire-regional-heat-2015/
+22:05:34	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKSDC-Yorkshire-Winners-Flechtel-Constructors.jpg (from https://uksdc.org/2015/11/yorkshire-regional-heat-2015/)
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3301
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3301 to https://uksdc.org/2015/11/ready-steady-design/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3238
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3238 to https://uksdc.org/2015/09/video-competition-2015-16-open/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3213
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3213 to https://uksdc.org/2015/09/rules-for-2015-16-updated/
+22:05:34	Warning: 	Moved Permanently for https://uksdc.org/?p=3198
+22:05:34	Warning: 	File has moved from https://uksdc.org/?p=3198 to https://uksdc.org/2015/09/uksdc-2016-dates-confirmed/
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3411
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3411 to https://uksdc.org/2016/02/note-for-new-attendees-to-uksdc/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/image-300x225.jpg (from https://uksdc.org/2015/08/issdc-2015-day-7-the-results-are-in/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3188
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3188 to https://uksdc.org/2015/08/issdc-2015-day-7-the-results-are-in/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/image.jpg (from https://uksdc.org/2015/08/issdc-2015-day-7-the-results-are-in/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11805786_654143028054966_1453402322_n-300x225.jpg (from https://uksdc.org/2015/08/issdc-2015-day-6-the-competition-continues/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3184
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3184 to https://uksdc.org/2015/08/issdc-2015-day-6-the-competition-continues/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11805786_654143028054966_1453402322_n.jpg (from https://uksdc.org/2015/08/issdc-2015-day-6-the-competition-continues/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11793145_653799498089319_977212194_n-300x225.jpg (from https://uksdc.org/2015/08/issdc-2015-day-5-the-competition-begins/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3180
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3180 to https://uksdc.org/2015/08/issdc-2015-day-5-the-competition-begins/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11793145_653799498089319_977212194_n.jpg (from https://uksdc.org/2015/08/issdc-2015-day-5-the-competition-begins/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3178
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3178 to https://uksdc.org/2015/08/issdc-2015-day-4-sand-and-sea-and-rain/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11791688_10153474474312708_810691498_n-300x300.jpg (from https://uksdc.org/2015/07/issdc-2015-day-3-universal-studios/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3174
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3174 to https://uksdc.org/2015/07/issdc-2015-day-3-universal-studios/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11791688_10153474474312708_810691498_n.jpg (from https://uksdc.org/2015/07/issdc-2015-day-3-universal-studios/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11823949_959951230736269_1552610015_n-1-225x300.jpg (from https://uksdc.org/2015/07/issdc-2015-day-2-retail-therapy-or-not/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3166
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3166 to https://uksdc.org/2015/07/issdc-2015-day-2-retail-therapy-or-not/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11823949_959951230736269_1552610015_n-1.jpg (from https://uksdc.org/2015/07/issdc-2015-day-2-retail-therapy-or-not/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11791633_10153471917887708_1492920604_n.jpg (from https://uksdc.org/2015/07/issdc-2015-day-2-retail-therapy-or-not/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11791633_10153471917887708_1492920604_n-300x225.jpg (from https://uksdc.org/2015/07/issdc-2015-day-2-retail-therapy-or-not/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11802019_10153470169677708_1144355207_n-225x300.jpg (from https://uksdc.org/2015/07/issdc-2015-day-1-a-4000-mile-journey/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=3162
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=3162 to https://uksdc.org/2015/07/issdc-2015-day-1-a-4000-mile-journey/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/11802019_10153470169677708_1144355207_n.jpg (from https://uksdc.org/2015/07/issdc-2015-day-1-a-4000-mile-journey/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/VID_7975-1024x664.jpg (from https://uksdc.org/2015/04/uksdc-national-final-2015-results/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=2827
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=2827 to https://uksdc.org/2015/04/uksdc-national-final-2015-results/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/VID_7975.jpg (from https://uksdc.org/2015/04/uksdc-national-final-2015-results/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/slide_lunarhotel.png (from https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=2750
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=2750 to https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/www.capitalcityacademy.org (from https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/)
+22:05:39	Error: 	"Not Found" (404) at link https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/www.qkacademy.org.uk (from https://uksdc.org/2014/10/lunar-hotels-and-asteroid-mining-colonies/)
+22:05:39	Warning: 	Moved Permanently for https://uksdc.org/?p=2700
+22:05:39	Warning: 	File has moved from https://uksdc.org/?p=2700 to https://uksdc.org/2014/09/video-competition-2014-15/
+22:05:42	Warning: 	Moved Permanently for https://uksdc.org/?p=2666
+22:05:42	Warning: 	File has moved from https://uksdc.org/?p=2666 to https://uksdc.org/2014/07/registration-open-for-201415/
+22:05:42	Error: 	"Not Found" (404) at link https://uksdc.org/about/sse-foundation/ (from https://uksdc.org/2014/07/registration-open-for-201415/)
+22:05:42	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/communicator-300x225.jpg (from https://uksdc.org/2016/08/natasha-cowan-and-jacob-robertson-won-awards-at-ksc/)
+22:05:42	Warning: 	Moved Permanently for https://uksdc.org/?p=3641
+22:05:42	Warning: 	File has moved from https://uksdc.org/?p=3641 to https://uksdc.org/2016/08/natasha-cowan-and-jacob-robertson-won-awards-at-ksc/
+22:05:42	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/bestmalespeaker-300x225.jpg (from https://uksdc.org/2016/08/natasha-cowan-and-jacob-robertson-won-awards-at-ksc/)
+22:05:46	Warning: 	Moved Permanently for https://uksdc.org/?p=3613
+22:05:46	Warning: 	File has moved from https://uksdc.org/?p=3613 to https://uksdc.org/2016/07/day-4-with-a-big-success-for-the-uk-team/
+22:05:48	Warning: 	Moved Permanently for https://uksdc.org/?p=3600
+22:05:48	Warning: 	File has moved from https://uksdc.org/?p=3600 to https://uksdc.org/2016/07/from-victoria-and-helen-in-titusville-florida/
+22:05:48	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/UKSDC-leaving-Hethrow-for-Orlando-300x224.jpg (from https://uksdc.org/2016/07/uk-team-ready-to-leave-heathrow-for-kennedy-space-center/)
+22:05:48	Warning: 	Moved Permanently for https://uksdc.org/?p=3597
+22:05:48	Warning: 	File has moved from https://uksdc.org/?p=3597 to https://uksdc.org/2016/07/uk-team-ready-to-leave-heathrow-for-kennedy-space-center/
+22:05:49	Warning: 	Moved Permanently for https://uksdc.org/?p=3408
+22:05:49	Warning: 	File has moved from https://uksdc.org/?p=3408 to https://uksdc.org/2016/02/five-weeks-to-go/
+22:05:49	Warning: 	Moved Permanently for https://uksdc.org/?p=3396
+22:05:49	Warning: 	File has moved from https://uksdc.org/?p=3396 to https://uksdc.org/2016/02/countdown-to-the-uk-national-finals/
+22:05:49	Warning: 	Moved Permanently for https://uksdc.org/?p=3631
+22:05:49	Warning: 	File has moved from https://uksdc.org/?p=3631 to https://uksdc.org/2016/08/issdc-day-7-317/
+22:05:51	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/competition_day1-300x225.jpg (from https://uksdc.org/2016/07/issdc-day-5-307/)
+22:05:51	Warning: 	Moved Permanently for https://uksdc.org/?p=3625
+22:05:51	Warning: 	File has moved from https://uksdc.org/?p=3625 to https://uksdc.org/2016/07/issdc-day-5-307/
+22:05:53	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Celebration-e1470692066802-225x300.jpg (from https://uksdc.org/2016/07/issdc-day-4-297/)
+22:05:53	Warning: 	Moved Permanently for https://uksdc.org/?p=3623
+22:05:53	Warning: 	File has moved from https://uksdc.org/?p=3623 to https://uksdc.org/2016/07/issdc-day-4-297/
+22:05:53	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/rocketgarden-300x225.jpg (from https://uksdc.org/2016/07/3621/)
+22:05:53	Warning: 	Moved Permanently for https://uksdc.org/?p=3621
+22:05:53	Warning: 	File has moved from https://uksdc.org/?p=3621 to https://uksdc.org/2016/07/3621/
+22:05:53	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/image-e1470693671256-300x274.jpeg (from https://uksdc.org/2016/07/issdc-day-3-287/)
+22:05:53	Warning: 	Moved Permanently for https://uksdc.org/?p=3608
+22:05:53	Warning: 	File has moved from https://uksdc.org/?p=3608 to https://uksdc.org/2016/07/issdc-day-3-287/
+22:05:53	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/image-1-300x210.jpeg (from https://uksdc.org/2016/07/issdc-day-3-287/)
+22:05:56	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Fergal-300x169.png (from https://uksdc.org/2016/07/issdc-day-2-276/)
+22:05:56	Warning: 	Moved Permanently for https://uksdc.org/?p=3603
+22:05:56	Warning: 	File has moved from https://uksdc.org/?p=3603 to https://uksdc.org/2016/07/issdc-day-2-276/
+22:05:56	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Jonathan-168x300.png (from https://uksdc.org/2016/07/issdc-day-2-276/)
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=3568
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=3568 to https://uksdc.org/2016/05/201617-competition-now-open/
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=1386
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=1386 to https://uksdc.org/2013/01/1386/
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org//2013/01/29/regional-competitions/
+22:05:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://uksdc.org//2013/01/29/regional-competitions/ and https://uksdc.org/2013/01/29/regional-competitions/
+22:05:58	Warning: 	File has moved from https://uksdc.org//2013/01/29/regional-competitions/ to https://uksdc.org/2013/01/29/regional-competitions/
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=1377
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=1377 to https://uksdc.org/2012/11/uksdc-2013-entry-deadline-approaching/
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Winning-company-300x225.jpg (from https://uksdc.org/2015/11/central-london-regional/)
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=3327
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=3327 to https://uksdc.org/2015/11/central-london-regional/
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Winning-company.jpg (from https://uksdc.org/2015/11/central-london-regional/)
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Micro-winning-team-Galactic-27872-300x169.jpg (from https://uksdc.org/2015/11/central-london-regional-micro-competition/)
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=3324
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=3324 to https://uksdc.org/2015/11/central-london-regional-micro-competition/
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/Micro-winning-team-Galactic-27872.jpg (from https://uksdc.org/2015/11/central-london-regional-micro-competition/)
+22:05:58	Warning: 	Moved Permanently for https://uksdc.org/?p=3280
+22:05:58	Warning: 	File has moved from https://uksdc.org/?p=3280 to https://uksdc.org/2015/10/imperial-college-global-summer-school-2015/
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/IC-Summer-School-28_09_15.mp4?_=1 (from https://uksdc.org/2015/10/imperial-college-global-summer-school-2015/)
+22:05:58	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/IC-Summer-School-28_09_15.mp4 (from https://uksdc.org/2015/10/imperial-college-global-summer-school-2015/)
+22:06:01	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/12167016_10206638040043266_729421440_n-300x225.jpg (from https://uksdc.org/2015/10/west-london-regional-2015/)
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=3273
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=3273 to https://uksdc.org/2015/10/west-london-regional-2015/
+22:06:01	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/12167016_10206638040043266_729421440_n.jpg (from https://uksdc.org/2015/10/west-london-regional-2015/)
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2803
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2803 to https://uksdc.org/2015/01/2015-finalists/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2675
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2675 to https://uksdc.org/2014/07/uk-team-lands-in-florida/
+22:06:01	Error: 	"Not Found" (404) at link https://uksdc.org/wp-content/uploads/photos/2014/2014_slider/uksdc2014_slider_00.jpg (from https://uksdc.org/2014/04/uksdc-national-final-2014-results/)
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2607
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2607 to https://uksdc.org/2014/04/uksdc-national-final-2014-results/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2339
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2339 to https://uksdc.org/2014/03/chipping-norton-school-at-the-final/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2337
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2337 to https://uksdc.org/2014/03/a-busy-weekend/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2334
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2334 to https://uksdc.org/2014/02/uksdc-2014-finalists/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2322
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2322 to https://uksdc.org/2014/01/south-east-london-regional-winners-announced/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2094
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2094 to https://uksdc.org/2013/12/central-england-regional-a-success/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=2084
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=2084 to https://uksdc.org/2013/11/uksdc-featured-in-a-global-village-magazine/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1949
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1949 to https://uksdc.org/2013/11/regional-and-micro-winners-announced/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1893
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1893 to https://uksdc.org/2013/11/half-day-report/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1894
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1894 to https://uksdc.org/2013/11/yum/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1876
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1876 to https://uksdc.org/2013/10/oxford-micro-competition-on-1st-march/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1871
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1871 to https://uksdc.org/2013/10/one-space-left-at-central-london-regional/
+22:06:01	Error: 	"Not Found" (404) at link https://uksdc.org/regionals (from https://uksdc.org/2013/10/one-space-left-at-central-london-regional/)
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1855
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1855 to https://uksdc.org/2013/10/west-london-heat-postponed/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1851
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1851 to https://uksdc.org/2013/10/one-week-left-to-apply-for-the-west-london-heats/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1833
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1833 to https://uksdc.org/2013/09/2014-video-entries-now-open/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1740
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1740 to https://uksdc.org/2013/08/micro-competitions-now-open-for-registration/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1728
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1728 to https://uksdc.org/2013/08/registration-open-for-uksdc-2014-regionals/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1656
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1656 to https://uksdc.org/2013/06/dr-perry-uksdc-founder-nominated-for-arthur/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1654
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1654 to https://uksdc.org/2013/04/1488/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1436
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1436 to https://uksdc.org/2013/03/press-release-out-now/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1431
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1431 to https://uksdc.org/2013/03/the-countdown-has-begun/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1057
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1057 to https://uksdc.org/2013/02/another-team-is-in/
+22:06:01	Warning: 	Moved Permanently for https://uksdc.org/?p=1423
+22:06:01	Warning: 	File has moved from https://uksdc.org/?p=1423 to https://uksdc.org/2013/02/more-teams-have-made-it-through/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 55 seconds : 2006 links scanned, 1682 files written (164042741 bytes overall) [143067174 bytes received at 200093 bytes/sec], 34454629 bytes transferred using HTTP compression in 1495 files, ratio 26%, 67.2 requests per connection
+(72 errors, 505 warnings, 0 messages)
